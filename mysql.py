@@ -1135,5 +1135,3 @@ def revisepasswd(jwac,passwd,newpasswd):
 if __name__ == '__main__':
 
     select()
-#    dd=zc('sdaskdjsa','sadkajsk','031702228')
-#    print(dd)
